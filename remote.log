@@ -1,0 +1,1 @@
+c215add4-f722-4fba-8f97-6342aa4b04c1 chunk=50MiB encryption=none externaltype=rclone name=gdsig prefix=test rclone_layout=lower target=gd-sig type=external timestamp=1590719564.193622s
